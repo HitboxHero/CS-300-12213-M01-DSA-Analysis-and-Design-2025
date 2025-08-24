@@ -42,8 +42,8 @@ To make my work even better I could have added basic input validation messaging 
 I found designing a minimal UI loop that does not get in the way to be the most challenging. I overcame this by keeping the menu tiny, pushing logic into functions, and normalizing inputs to avoid case surprises. 
 
 **Tools and resources added to my network:**
-unordered_map patterns for small CLI tools
-A lightweight CSV line splitter for simple, unquoted inputs 
+- unordered_map patterns for small CLI tools
+- A lightweight CSV line splitter for simple, unquoted inputs 
 
 **Skills transferable to other projects:**
 - Fast lookups with hashing and a sorted presentation layer
